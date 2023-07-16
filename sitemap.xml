@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://excaburay.github.io/categories/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://excaburay.github.io/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://excaburay.github.io/tags/kubernetes/</loc>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://excaburay.github.io/posts/</loc>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://excaburay.github.io/tags/</loc>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://excaburay.github.io/categories/web/</loc>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://excaburay.github.io/posts/%E5%9C%A8kubernetesminikube%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%8D%E5%8A%A1/</loc>
+    <lastmod>2023-07-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://excaburay.github.io/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://excaburay.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://excaburay.github.io/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://excaburay.github.io/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://excaburay.github.io/categories/web/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://excaburay.github.io/archives/</loc>
