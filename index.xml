@@ -1,32 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>EvanSite</title>
-    <link>https://excaburay.github.io/</link>
-    <description>Recent content on EvanSite</description>
+    <title>ExampleSite</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on ExampleSite</description>
     <image>
-      <url>https://excaburay.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://excaburay.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://excaburay.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>在kubernetes(minikube)上部署自己的第一个服务</title>
-      <link>https://excaburay.github.io/posts/%E5%9C%A8kubernetesminikube%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%8D%E5%8A%A1/</link>
-      <pubDate>Sat, 15 Jul 2023 11:30:03 +0000</pubDate>
+      <title>搭建hugo博客</title>
+      <link>https://examplesite.com/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 15 Nov 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://excaburay.github.io/posts/%E5%9C%A8kubernetesminikube%E4%B8%8A%E9%83%A8%E7%BD%B2%E8%87%AA%E5%B7%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%8D%E5%8A%A1/</guid>
-      <description>将本地的http服务，打包编译，并在minikube上部署运行</description>
+      <guid>https://examplesite.com/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>使用hugo搭建博客&amp;ndash;记录搭建此博客的最初步骤</description>
     </item>
     
     <item>
-      <title>hugo搭建博客</title>
-      <link>https://excaburay.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <title>kubernetes(minikube)部署服务</title>
+      <link>https://examplesite.com/posts/kubernetesminikube%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1/</link>
+      <pubDate>Sat, 15 Jul 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/kubernetesminikube%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1/</guid>
+      <description>使用hugo搭建博客&amp;ndash;记录搭建此博客的最初步骤</description>
+    </item>
+    
+    <item>
+      <title>限流--uber-ratelimit</title>
+      <link>https://examplesite.com/posts/ratelimit/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://excaburay.github.io/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>Desc Text.</description>
+      <guid>https://examplesite.com/posts/ratelimit/</guid>
+      <description>ratelimit是uber提供的一个极简的漏桶限流实现，主打一个简约轻量。</description>
     </item>
     
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>web on ExampleSite</title>
-    <link>https://examplesite.com/categories/web/</link>
-    <description>Recent content in web on ExampleSite</description>
+    <title>blog on ExampleSite</title>
+    <link>https://examplesite.com/tags/blog/</link>
+    <description>Recent content in blog on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
       <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,13 +11,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>kubernetes(minikube)部署服务</title>
-      <link>https://examplesite.com/posts/kubernetesminikube%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1/</link>
-      <pubDate>Sat, 15 Jul 2023 11:30:03 +0000</pubDate>
+      <title>搭建hugo博客</title>
+      <link>https://examplesite.com/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 15 Nov 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/kubernetesminikube%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1/</guid>
+      <guid>https://examplesite.com/posts/hugo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description>使用hugo搭建博客&amp;ndash;记录搭建此博客的最初步骤</description>
     </item>
     
