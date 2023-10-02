@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on ExampleSite</title>
-    <link>https://examplesite.com/tags/</link>
-    <description>Recent content in Tags on ExampleSite</description>
+    <title>Tags on myBlog</title>
+    <link>https://excaburay.github.io/tags/</link>
+    <description>Recent content in Tags on myBlog</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>myBlog</title>
+      <url>https://excaburay.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://excaburay.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://excaburay.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>kubernetes</title>
-      <link>https://examplesite.com/tags/kubernetes/</link>
+      <link>https://excaburay.github.io/tags/kubernetes/</link>
       <pubDate>Sat, 15 Jul 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/kubernetes/</guid>
+      <guid>https://excaburay.github.io/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>https://examplesite.com/tags/blog/</link>
+      <link>https://excaburay.github.io/tags/blog/</link>
       <pubDate>Tue, 15 Nov 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/blog/</guid>
+      <guid>https://excaburay.github.io/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://examplesite.com/tags/golang/</link>
+      <link>https://excaburay.github.io/tags/golang/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/golang/</guid>
+      <guid>https://excaburay.github.io/tags/golang/</guid>
       <description></description>
     </item>
     

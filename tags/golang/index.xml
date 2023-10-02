@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>golang on ExampleSite</title>
-    <link>https://examplesite.com/tags/golang/</link>
-    <description>Recent content in golang on ExampleSite</description>
+    <title>golang on myBlog</title>
+    <link>https://excaburay.github.io/tags/golang/</link>
+    <description>Recent content in golang on myBlog</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>myBlog</title>
+      <url>https://excaburay.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://excaburay.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://excaburay.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>限流--uber-ratelimit</title>
-      <link>https://examplesite.com/posts/ratelimit/</link>
+      <link>https://excaburay.github.io/posts/ratelimit/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/ratelimit/</guid>
+      <guid>https://excaburay.github.io/posts/ratelimit/</guid>
       <description>ratelimit是uber提供的一个极简的漏桶限流实现，主打一个简约轻量。</description>
     </item>
     
