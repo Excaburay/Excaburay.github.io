@@ -26,7 +26,7 @@
     <loc>https://excaburay.github.io/tags/</loc>
     <lastmod>2023-07-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://excaburay.github.io/categories/web/</loc>
+    <loc>https://excaburay.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2023-07-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://excaburay.github.io/tags/blog/</loc>
@@ -35,7 +35,12 @@
     <loc>https://excaburay.github.io/tags/golang/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>https://excaburay.github.io/tags/%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://excaburay.github.io/archives/</loc>
+  </url><url>
+    <loc>https://excaburay.github.io/tags/ci/cd/</loc>
   </url><url>
     <loc>https://excaburay.github.io/search/</loc>
   </url>
